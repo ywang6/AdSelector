@@ -1,0 +1,2 @@
+1 left,mid,right
+5 mid,right,left
